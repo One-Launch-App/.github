@@ -70,7 +70,7 @@ One Launch app not opening: restart Windows and check whether security settings 
 
 ---
 
-![One Launch desktop start page with shortcuts, search, and browser access](FOTO)
+![One Launch desktop start page with shortcuts, search, and browser access](https://wavebrowser.co/cms-content/onelaunch_98bae15637.jpg)
 
 ---
 
